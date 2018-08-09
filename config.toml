@@ -29,5 +29,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A simple, minimal blog for those who love text."
-    footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Twitter](https://twitter.com/thegoodroot)"
+    footer = "[Github](https://github.com/orgs/TritonNetworking) | [CSE Dept](https://www.cs.ucsd.edu) | [JSOE](https://jacobsschool.ucsd.edu/) | [UC San Diego](https://www.ucsd.edu)"
     custom_css = ["css/theme-override.css"]

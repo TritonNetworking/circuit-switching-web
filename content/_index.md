@@ -115,7 +115,7 @@ which could only reconfigure slowly, limiting their use for highly aggregated
 traffic in the network core.  This project demonstrated the feasibility of
 circuit switching in datacenter networks.
 
-[Link to helios project page](Helios)
+[Link to Helios project page](helios)
 
 ### Mordia
 
@@ -164,7 +164,3 @@ requirements on the underlying circuit switches---in particular by not
 requiring individual switches to implement a full crossbar---enabling them to
 scale to 1000s of ports.  We've designed and built the underlying Rotor
 Switch, and used it to build a working prototype architecture.
-
-[Link to RotorNet project page](rotornet)
-
-## Blog

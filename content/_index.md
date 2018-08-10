@@ -19,6 +19,13 @@ available to a wider and more diverse set of users.
 
 <ul class="image-list-small">
     <li>
+      <a href="#" style="background-image: url('/photos/rajdeep.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Rajdeep Das</a></h3>
+        <p class="image-author">Ph.D. student</p>
+      </div>
+    </li>
+    <li>
       <a href="http://circuit.ucsd.edu/~jford/" style="background-image: url('/photos/ford.jpg');"></a>
       <div class="details">
         <h3><a href="http://circuit.ucsd.edu/~jford/">Joseph Ford</a></h3>
@@ -164,3 +171,5 @@ requirements on the underlying circuit switches---in particular by not
 requiring individual switches to implement a full crossbar---enabling them to
 scale to 1000s of ports.  We've designed and built the underlying Rotor
 Switch, and used it to build a working prototype architecture.
+
+[Link to RotorNet project page](rotornet)

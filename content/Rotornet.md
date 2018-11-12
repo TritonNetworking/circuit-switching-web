@@ -51,3 +51,9 @@ Los Angeles, California, August 2017.
 Center](http://cseweb.ucsd.edu/~gmporter/papers/optswitch-hpsr18.pdf), William
 M. Mellette, Alex C.  Snoeren, and George Porter, IEEE International Conference
 on High Performance Switching and Routing, Bucharest, Romania, June 2018.
+
+[Evaluating the Performance of Software NICs for 100-Gb/s Datacenter Traffic
+Control](http://cseweb.ucsd.edu/~gmporter/papers/snic-ancs18.pdf), Rob
+McGuinness and George Porter, Proceedings of the ACM/IEEE Symposium on
+Architectures for Networking and Communications Systems (ANCS), Ithaca, New
+York, July 2018.

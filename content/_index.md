@@ -40,6 +40,13 @@ available to a wider and more diverse set of users.
       </div>
     </li>
     <li>
+      <a href="http://www.stewartgrant.ca/" style="background-image: url('/photos/stewart.jpg');"></a>
+      <div class="details">
+        <h3><a href="#">Stewart Grant</a></h3>
+        <p class="image-author">Ph.D. Student</p>
+      </div>
+    </li>
+    <li>
       <a href="#" style="background-image: url('/photos/yibo.png');"></a>
       <div class="details">
         <h3><a href="#">Yibo Guo</a></h3>
@@ -173,3 +180,5 @@ scale to 1000s of ports.  We've designed and built the underlying Rotor
 Switch, and used it to build a working prototype architecture.
 
 [Link to RotorNet project page](rotornet)
+
+## Blog

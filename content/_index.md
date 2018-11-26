@@ -95,6 +95,13 @@ available to a wider and more diverse set of users.
         <p class="image-author">Ph.D. Student</p>
       </div>
     </li>
+    <li>
+      <a href="https://anilkyelam.github.io/" style="background-image: url('/photos/anil.jpg');"></a>
+      <div class="details">
+        <h3><a href="https://anilkyelam.github.io/">Anil K. Yelam</a></h3>
+        <p class="image-author">Ph.D. Student</p>
+      </div>
+    </li>
 </ul>
 
 
